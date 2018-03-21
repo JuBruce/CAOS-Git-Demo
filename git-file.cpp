@@ -4,6 +4,6 @@ using namespace std;
 int main(int argc, const char * argv[]) {
     
     cout << "Hello, World!\n";
-    cout << "Justin Bruce";
+    cout << "Jesse Rogers III";
     return 0;
 }
