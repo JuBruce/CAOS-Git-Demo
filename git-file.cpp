@@ -7,7 +7,7 @@ int main(int argc, const char * argv[]) {
     cout << "Hello, World!\n";
     cout << "Justin Bruce\n";
     cout << "Megan Ramaker\n";
-	cout << "Burke rides the special bus: ";	
+	cout << "Burke is a special child: ";	
     cin >> lol;
     cout << lol << endl;
 	return 0;
