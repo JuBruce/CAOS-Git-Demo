@@ -16,6 +16,8 @@ int main(int argc, const char * argv[]) {
 
     cout << "Justin Bruce SUCKS!!!!";
     cout << "Justin Bruce\n";
+    cout << "Megan Ramaker\n";
+	  cout << "Burke is a special child: ";	
     cout << "Burke rides the special bus\n";
     cout << "\nTell me how you feel: ";	
     cin >> lol;
