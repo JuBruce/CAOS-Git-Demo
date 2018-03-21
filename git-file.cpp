@@ -21,14 +21,11 @@ int main(int argc, const char * argv[]) {
 	cout << "Burke is a special child: ";	
 
     cout << "Burke rides the special bus\n";
-    cout << "\nTell me how you feel: ";	
+    cout << "\nTell me how you really feel: ";	
 
     cin >> lol;
 
     cout << lol << endl;
-	  return 0;
-
-    cout << lol << endl; 
     if( lol == "great"){
 	    cout << "as the cool kids say";
     	for(int i = 0; i < 100; i++){
