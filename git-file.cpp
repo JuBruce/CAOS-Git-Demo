@@ -6,8 +6,8 @@ int main(int argc, const char * argv[]) {
     string lol;
     cout << "Hello, World!\n";
     cout << "Justin Bruce\n";
-    cout << "some loser named Megan Ramaker\n";
-	cout << "the most 1337 haxor Xinx9\n\nTell me how you feel: ";	
+    cout << "Megan Ramaker\n";
+	cout << Burke rides the special bus: ";	
     cin >> lol;
     cout << lol << endl;
 	return 0;
